@@ -9,13 +9,13 @@
     <body>
         <nav>
             <div class="nav-wrapper black">
-              <a href="#" class="brand-logo right">Kyle Rather</a>
+              <a class="brand-logo right hide-on-med-and-down">Kyle Rather</a>
               <ul id="nav-mobile" class="left">
                 <li><a href="https://github.com/krather7"target="_blank">Github</a></li>
                 <li><a href="https://www.linkedin.com/in/kyle-rather-aa0853201"target="_blank">LinkedIn</a></li>
-                <li><a href="krather7@gmail.com"target="_blank">Resume</a></li>
-                <li><a href="krather7@gmail.com">Email</a></li>
-                <li><a href="krather7@gmail.com">Phone</a></li>
+                <li><a href="images/Resume.pdf"target="_blank">Resume</a></li>
+                <li><a href="mailto:krather7@gmail.com">Email</a></li>
+                <li><a href="tel:618-513-9773">Phone</a></li>
               </ul>
             </div>
           </nav>
@@ -23,7 +23,7 @@
       <div class="container">
         <div class="row">
           <div class="col s6">     
-            <img src="images/Kyle.jpg">
+            <img class="circle responsive-img" src="images/Kyle.jpg">
          </div>
             <div class="col s6">
               <p class="text">
@@ -43,18 +43,27 @@
       </div>
     </div>
 
-       <div class="container">
+       <div class="container bottom">
         <div class="row">
-          <a href="https://krather7.github.io/HoroscopeFinder/."target="_blank"><div id="horoscope" class="col s6">  <h3>Daily Horoscope</h3></div></a>
-          <a href="https://krather7.github.io/Day-Planner/"target="_blank"><div id="schedule" class="col s6">  <h3>Hourly Schedule</h3></div></a>
+          <section class="project-title">Horoscope Finder</section>
+          <a href="https://krather7.github.io/HoroscopeFinder/."target="_blank"><button id="horoscope" class="col s6"></button></a>
+          <section class="col s6 text2">With a new horoscope generated each day, this project gives the user daily affirmation in the form
+            of a quote and daily advice.  This project uses API calls and CSS animations. <br><a href="https://github.com/krather7/HoroscopeFinder"class="github-link"target="_blank"> Check it out on Github!</a>
+          </section>
         </div>
-      </div>
-            
-        <div class="container">
           <div class="row">
-          <a href="https://github.com/krather7/weather-forecast"target="_blank"><div id="weather" class="col s6">  <h3>Weather Forecast</h3></div></a>
-          <a href="https://github.com/krather7/quiz-challenge-homework04-kfr"target="_blank"><div id="quiz" class="col s6">  <h3>Quiz Template</h3></div></a>
-          </div>
+            <section class="project-title">Work Day Scheduler</section>
+          <a href="https://krather7.github.io/Day-Planner/"target="_blank"><button id="schedule" class="col s6"></button></a>
+          <section class="col s6 text2">This project displays a schedule during regular business hours.  This project uses local storage and Moment.js to save the user's 
+            input to put on display when they close or refresh their browser. <br><a href="https://github.com/krather7/Day-Planner"class="github-link"target="_blank"> Check it out on Github!</a>
+          </section>
+        </div>
+          <div class="row">
+            <section class="project-title">Weather Forecast</section>
+          <a href="https://krather7.github.io/weather-forecast/"target="_blank"><button id="weather" class="col s6"></button></a>
+          <section class="col s6 text2">This project allows the user to search for the weather conditions by typing a city within an input response.  Weather Forecast utilizes
+            the OpenWeather API to generate today's weather, as well as a five day forecast. <br><a href="https://github.com/krather7/Day-Planner"class="github-link"target="_blank"> Check it out on Github!</a>
+          </section>
         </div>
 
     </body>

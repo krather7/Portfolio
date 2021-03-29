@@ -1,3 +1,7 @@
+html{
+  margin:1%;
+}
+
 body {
     background-image: url("images/background-image.png");
     background-size:cover;
@@ -23,6 +27,25 @@ body {
     border-radius: 8px;
     padding: 3%;
     font-size: 1.1rem;
+    
+  }
+
+  .text2{
+    color:white;
+    margin-left: -30%;
+    background-color:grey;
+    border-radius: 8px;
+    padding: 3%;
+    font-size: 1.1rem;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+  }
+
+  .project-title{
+    font-size:2em;
+    color:black;
+    border-bottom:solid 3px;
+    text-align:center;
   }
 
   img{
@@ -32,28 +55,48 @@ body {
   }
 
   #project-header{
-    padding:1.5%;
+    padding:3%;
     margin-top:-4%;
-    margin-bottom:-1%;
+    margin-bottom:-4%;
     font-size: 2.5rem;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
   }
 
   #horoscope{
-    background-image: url("images/horoscope.jpg");
+    background-image: url("images/horoscope.png");
     background-size:cover;
-    padding:3%;
+    padding:10%;
+    font-size:2.5em;
+    color:orange
   }
 
   #schedule{
-    background-image: url("images/schedule.jpg");
+    background-image: url("images/quiz.png");
     background-size:cover;
-    padding:3%;
+    padding:10%;
+    font-size:2.5em;
+    color:orange
   }
 
+
   #weather{
-    background-image: url("images/weather.jpg");
+    background-image: url("images/weather.png");
     background-size:cover;
-    padding:3%;
+    padding:10%;
+    font-size:2.5em;
+    color:orange
+  }
+
+  .github-link{
+    color:darkblue;
+    font-weight:bold;
+    text-align:center;
+    font-style: italic;
+  }
+
+  .github-link:hover{
+    text-decoration:underline;
   }
 
   #quiz{
@@ -62,11 +105,22 @@ body {
     padding:3%;
   }
 
-  h3:hover {
-    color: white;
-    font-weight:bolder;
+  button:hover {
+    font-weight:bold;
+    border-color:orange;
+    cursor: pointer;
   }
 
   nav ul li:hover {
     background-color: white;
+
+ }
+
+ .bottom{
+  background-color: grey;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding-right: 1%;
+  padding-left: 1%;
+  padding-bottom: .3%;
  }
