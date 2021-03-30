@@ -3,6 +3,7 @@ html{
   margin-left:1%;
   margin-bottom:2%;
   font-family: 'PT Sans', sans-serif;
+  overflow-y: scroll;
 }
 
 body {
