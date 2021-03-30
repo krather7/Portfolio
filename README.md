@@ -1,10 +1,10 @@
 # Portfolio
 ## Contents:
-#### * Installation
+#### * INSTALLATION
 #### * USAGE
 #### * TECHNOLOGY
 #### * CREDITS
-#### * Screenshot<br>
+#### * SCREENSHOT<br>
 ### Installation:
 * Github Repo Link: https://github.com/krather7/Day-Planner
 * Website link: https://krather7.github.io/Portfolio/
