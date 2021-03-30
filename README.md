@@ -2,6 +2,7 @@
 ## Contents:
 #### * Installation
 #### * USAGE
+#### * TECHNOLOGY
 #### * CREDITS
 #### * Screenshot<br>
 ### Installation:
@@ -17,5 +18,5 @@ Materalize Framework
 ### Credits:
 * Kyle Rather
 ### Screenshot:
-![Screenshot](https://github.com/krather7/Day-Planner/blob/main/Screenshot.png)
+![Screenshot](https://github.com/krather7/Portfolio/blob/main/images/screenshot.pdf)
 
