@@ -18,5 +18,5 @@ Materalize Framework
 ### Credits:
 * Kyle Rather
 ### Screenshot:
-![Screenshot](https://github.com/krather7/Portfolio/blob/main/images/screenshot.pdf)
+![Screenshot](https://github.com/krather7/Portfolio/raw/main/images/screenshot.pdf)
 
