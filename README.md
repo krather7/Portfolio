@@ -16,7 +16,7 @@
 ### Technology:
 Materalize Framework
 ### Credits:
-* Kyle Rather
+* [Kyle Rather](mailto:krather7@gmail.com)
 ### Screenshot:
 ![Screenshot](https://github.com/krather7/Portfolio/blob/main/images/screenshot.pdf)
 
