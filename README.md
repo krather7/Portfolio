@@ -6,7 +6,7 @@
 #### * CREDITS
 #### * SCREENSHOT<br>
 ### Installation:
-* Github Repo Link: https://github.com/krather7/Day-Planner
+* Github Repo Link: https://github.com/krather7/Portfolio
 * Website link: https://krather7.github.io/Portfolio/
 ### Usage:
 * This is a sample portfolio page to display my recent projects and contact info
