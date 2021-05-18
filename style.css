@@ -52,6 +52,7 @@ body {
     border-bottom:solid 3px;
     text-align:center;
     font-weight:bold;
+    margin-left: 2%;
   }
 
   .project-title:hover{
@@ -134,3 +135,12 @@ color:darkblue
   padding-left: 1%;
   padding-bottom: .3%;
  }
+
+#gameFrame{
+  background-image: url("images/game-screenshot.png");
+  background-size:cover;
+}
+
+.waves-effect{
+  margin:1%;
+}
